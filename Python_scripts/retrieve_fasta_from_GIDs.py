@@ -6,7 +6,7 @@
 import sys
 from Bio import Entrez
 
-# Tim's magic batch maker
+# Tim Booth's batch maker
 from ibatches import ibatches
 
 Entrez.email = "user@email.www"
