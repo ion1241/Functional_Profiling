@@ -1,6 +1,5 @@
-# Functional analisys project comparing Metagenomics, Metabarcoding and microarrays.
+# Towards functional profiling for eDNA based monitoring in coastal environments: a comparison of three approaches
 
 Files and Scripts from the project.
 
-I hope to publish this stuff soon.
-
+Ion L. Abad-Recio
